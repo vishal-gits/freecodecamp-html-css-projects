@@ -13,4 +13,5 @@ They are
 
 As part of the course, below is the certificate for completion of Responsive Web Design course, representing approx 300 hrs of coursework
 
+Below is the certification earned for the projects submitted
 https://www.freecodecamp.org/certification/fccbfc23a81-828b-4c08-a9e1-04160e127c48/responsive-web-design
