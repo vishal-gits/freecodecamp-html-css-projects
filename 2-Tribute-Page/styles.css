@@ -1,0 +1,42 @@
+.page{
+  background-color: #eef4f4;
+  margin: 10px auto;
+  min-width: 580px;
+   }
+   *{
+     font-family: sans-serif;
+   }
+ #image{
+   display: block;
+   max-width: 100%;
+   margin: 20px auto;
+   min-width: 100%;
+ }
+ h1,p,figcaption,address
+ {
+   text-align: center;
+ }
+ .img-wrap{
+   background-color: white;
+   margin: 20px;
+   padding-bottom: 10px;
+   min-width: 540px;
+ }
+ .list-spacing li{
+   margin: 20px auto;
+   padding: 0 125px;
+ }
+ .bold{
+   font-weight: 800;
+ }
+ q,cite{
+   display: block;
+   margin: 20px auto;
+   padding: 0 125px;
+ }
+ address{
+   font-style: normal;
+   padding: 25px 75px 3rem 75px;
+ 
+ }
+ 
