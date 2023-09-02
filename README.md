@@ -1,8 +1,8 @@
 Projects-
 
-Project Live Link - https://vishal-gits.github.io/freecodecamp-html-css-projects/
-
 There are 5 html-css projects in this. It is a part of the Responsive Web Design course from FreeCodeCamp.
+
+Project Live Link - https://vishal-gits.github.io/freecodecamp-html-css-projects/
 
 These are the certification projects.
 
