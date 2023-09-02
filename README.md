@@ -6,8 +6,7 @@
 
 These are the certification projects.
 
-Details-
-They are
+### Below are details of the 5 projects
 
 1- Survey Form - Build a survey form to collect data from users
 
